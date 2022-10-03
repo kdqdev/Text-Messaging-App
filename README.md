@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/kdqdev/pathfinding-visual">
-    <img src="messageicon.png" alt="Logo" width="900" height="500">
+    <img src="messageicon.png" alt="Logo" width="800" height="400">
   </a>
 
   
